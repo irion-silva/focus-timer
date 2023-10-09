@@ -40,7 +40,7 @@ O projeto inclui sons de botões para feedback auditivo quando você interage co
 Quando o temporizador Pomodoro chega ao fim, ele emite um som de notificação para informar que é hora de fazer uma pausa.
 
 ## Acesso ao projeto
-O projeto está disponível no seguinte link: [link para o website](link url).
+O projeto está disponível no seguinte link: [link para o website](focus-timer-five.vercel.app).
 
 ## Tecnologias utilizadas
 - HTML5
